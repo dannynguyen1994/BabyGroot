@@ -6,7 +6,5 @@
 
 
 
-
-
-
-1. Add 
+// adding to python script to crontab
+1 * * * * * python BabyGroot_v0.1.py
