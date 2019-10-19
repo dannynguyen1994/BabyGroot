@@ -6,5 +6,5 @@
 
 
 
-// adding to python script to crontab
+// adding python script to crontab to run waterpump every minute
 1 * * * * * python BabyGroot_v0.1.py
